@@ -1,0 +1,9 @@
+D:\GloHealPlus\NorthwindDB\bin\Debug\NorthwindDB.dacpac
+D:\GloHealPlus\NorthwindDB\bin\Debug\NorthwindDB.dll
+D:\GloHealPlus\NorthwindDB\bin\Debug\NorthwindDB.pdb
+D:\GloHealPlus\NorthwindDB\obj\Debug\NorthwindDB.dll
+D:\GloHealPlus\NorthwindDB\obj\Debug\NorthwindDB.pdb
+D:\GloHealPlus\NorthwindDB\obj\Debug\Model.xml
+D:\GloHealPlus\NorthwindDB\obj\Debug\refactor.xml
+D:\GloHealPlus\NorthwindDB\obj\Debug\postdeploy.sql
+D:\GloHealPlus\NorthwindDB\obj\Debug\predeploy.sql
