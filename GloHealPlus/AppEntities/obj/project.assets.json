@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GloHealPlus\\AppEntities\\0-DomainEntities.csproj",
+      "projectUniqueName": "D:\\Identity\\GloHealPlus\\AppEntities\\0-DomainEntities.csproj",
       "projectName": "0-DomainEntities",
-      "projectPath": "D:\\GloHealPlus\\AppEntities\\0-DomainEntities.csproj",
+      "projectPath": "D:\\Identity\\GloHealPlus\\AppEntities\\0-DomainEntities.csproj",
       "packagesPath": "C:\\Users\\pganathe\\.nuget\\packages\\",
-      "outputPath": "D:\\GloHealPlus\\AppEntities\\obj\\",
+      "outputPath": "D:\\Identity\\GloHealPlus\\AppEntities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

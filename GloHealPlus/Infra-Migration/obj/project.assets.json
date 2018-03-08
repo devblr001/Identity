@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GloHealPlus\\Infra-Migration\\Infra-Migration.csproj",
+      "projectUniqueName": "D:\\Identity\\GloHealPlus\\Infra-Migration\\Infra-Migration.csproj",
       "projectName": "InfraMigration",
-      "projectPath": "D:\\GloHealPlus\\Infra-Migration\\Infra-Migration.csproj",
+      "projectPath": "D:\\Identity\\GloHealPlus\\Infra-Migration\\Infra-Migration.csproj",
       "packagesPath": "C:\\Users\\pganathe\\.nuget\\packages\\",
-      "outputPath": "D:\\GloHealPlus\\Infra-Migration\\obj\\",
+      "outputPath": "D:\\Identity\\GloHealPlus\\Infra-Migration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

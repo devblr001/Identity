@@ -1,0 +1,9 @@
+D:\Identity\GloHealPlus\Infra-Migration\bin\Debug\netstandard2.0\InfraMigration.deps.json
+D:\Identity\GloHealPlus\Infra-Migration\bin\Debug\netstandard2.0\InfraMigration.dll
+D:\Identity\GloHealPlus\Infra-Migration\bin\Debug\netstandard2.0\InfraMigration.pdb
+D:\Identity\GloHealPlus\Infra-Migration\obj\Debug\netstandard2.0\Infra-Migration.csprojResolveAssemblyReference.cache
+D:\Identity\GloHealPlus\Infra-Migration\obj\Debug\netstandard2.0\Infra-Migration.csproj.CoreCompileInputs.cache
+D:\Identity\GloHealPlus\Infra-Migration\obj\Debug\netstandard2.0\Infra-Migration.AssemblyInfoInputs.cache
+D:\Identity\GloHealPlus\Infra-Migration\obj\Debug\netstandard2.0\Infra-Migration.AssemblyInfo.cs
+D:\Identity\GloHealPlus\Infra-Migration\obj\Debug\netstandard2.0\InfraMigration.dll
+D:\Identity\GloHealPlus\Infra-Migration\obj\Debug\netstandard2.0\InfraMigration.pdb

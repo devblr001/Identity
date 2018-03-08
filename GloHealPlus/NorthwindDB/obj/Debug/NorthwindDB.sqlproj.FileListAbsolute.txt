@@ -7,3 +7,8 @@ D:\GloHealPlus\NorthwindDB\obj\Debug\Model.xml
 D:\GloHealPlus\NorthwindDB\obj\Debug\refactor.xml
 D:\GloHealPlus\NorthwindDB\obj\Debug\postdeploy.sql
 D:\GloHealPlus\NorthwindDB\obj\Debug\predeploy.sql
+D:\Identity\GloHealPlus\NorthwindDB\bin\Debug\NorthwindDB.dacpac
+D:\Identity\GloHealPlus\NorthwindDB\bin\Debug\NorthwindDB.dll
+D:\Identity\GloHealPlus\NorthwindDB\bin\Debug\NorthwindDB.pdb
+D:\Identity\GloHealPlus\NorthwindDB\obj\Debug\NorthwindDB.dll
+D:\Identity\GloHealPlus\NorthwindDB\obj\Debug\NorthwindDB.pdb

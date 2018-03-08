@@ -7,3 +7,12 @@ D:\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.AssemblyInf
 D:\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.AssemblyInfo.cs
 D:\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.dll
 D:\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.pdb
+D:\Identity\GloHealPlus\AppEntities\bin\Debug\netstandard2.0\0-DomainEntities.deps.json
+D:\Identity\GloHealPlus\AppEntities\bin\Debug\netstandard2.0\0-DomainEntities.dll
+D:\Identity\GloHealPlus\AppEntities\bin\Debug\netstandard2.0\0-DomainEntities.pdb
+D:\Identity\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.csprojResolveAssemblyReference.cache
+D:\Identity\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.csproj.CoreCompileInputs.cache
+D:\Identity\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.AssemblyInfoInputs.cache
+D:\Identity\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.AssemblyInfo.cs
+D:\Identity\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.dll
+D:\Identity\GloHealPlus\AppEntities\obj\Debug\netstandard2.0\0-DomainEntities.pdb
