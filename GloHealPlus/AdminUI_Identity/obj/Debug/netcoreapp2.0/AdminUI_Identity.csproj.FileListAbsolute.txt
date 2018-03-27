@@ -1,0 +1,11 @@
+D:\Identity\GloHealPlus\AdminUI_Identity\bin\Debug\netcoreapp2.0\AdminUI_Identity.deps.json
+D:\Identity\GloHealPlus\AdminUI_Identity\bin\Debug\netcoreapp2.0\AdminUI_Identity.runtimeconfig.json
+D:\Identity\GloHealPlus\AdminUI_Identity\bin\Debug\netcoreapp2.0\AdminUI_Identity.runtimeconfig.dev.json
+D:\Identity\GloHealPlus\AdminUI_Identity\bin\Debug\netcoreapp2.0\AdminUI_Identity.dll
+D:\Identity\GloHealPlus\AdminUI_Identity\obj\Debug\netcoreapp2.0\AdminUI_Identity.csprojResolveAssemblyReference.cache
+D:\Identity\GloHealPlus\AdminUI_Identity\obj\Debug\netcoreapp2.0\AdminUI_Identity.csproj.CoreCompileInputs.cache
+D:\Identity\GloHealPlus\AdminUI_Identity\obj\Debug\netcoreapp2.0\AdminUI_Identity.AssemblyInfoInputs.cache
+D:\Identity\GloHealPlus\AdminUI_Identity\obj\Debug\netcoreapp2.0\AdminUI_Identity.AssemblyInfo.cs
+D:\Identity\GloHealPlus\AdminUI_Identity\bin\Debug\netcoreapp2.0\AdminUI_Identity.pdb
+D:\Identity\GloHealPlus\AdminUI_Identity\obj\Debug\netcoreapp2.0\AdminUI_Identity.dll
+D:\Identity\GloHealPlus\AdminUI_Identity\obj\Debug\netcoreapp2.0\AdminUI_Identity.pdb

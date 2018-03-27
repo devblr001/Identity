@@ -1,0 +1,84 @@
+﻿@using System.Collections.Generic;
+@model List<UserViewModel>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox">
+                <div class="ibox-content">   
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label class="control-label" for="product_name">UserName</label>
+                                <input type="text" id="product_name" name="product_name" value="" placeholder="Project Name" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label class="control-label" for="price">Email</label>
+                                <input type="text" id="price" name="price" value="" placeholder="Name" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label class="control-label" for="quantity">Role</label>
+                                <input type="text" id="quantity" name="quantity" value="" placeholder="Company" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label class="control-label" for="status">Organization</label>
+                                <select name="status" id="status" class="form-control">
+                                    <option value="1" selected="">Completed</option>
+                                    <option value="0">Pending</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label class="control-label" for="status">Since</label>
+                                <select name="status" id="status" class="form-control">
+                                    <option value="1" selected="">Completed</option>
+                                    <option value="0">Pending</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label class="control-label" for="status">Status</label>
+                                <select name="status" id="status" class="form-control">
+                                    <option value="1" selected="">Completed</option>
+                                    <option value="0">Pending</option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <tbody>
+                                @foreach (var p in Model){
+                                <tr>
+                                    <td>1</td>
+                                    <td>@p.Username</td>
+                                    <td>@p.Email</td>
+                                    <td>@p.RoleName</td>
+                                    <td>Hospital Xyz</td>
+                                    <td>Jul 16, 2015</td>
+                                    <td><a href="#"><i class="fa fa-check text-navy"></i></a></td>
+                                </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+

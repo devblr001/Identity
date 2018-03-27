@@ -5,16 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="EmailMessages.resx.en" />
     <None Remove="SMSMessages.resx.en" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="EmailMessages.resx.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>EmailMessages.resx.en</DependentUpon>
-    </Compile>
     <Compile Include="SMSMessages.resx.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -23,10 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="EmailMessages.resx.en">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>EmailMessages.resx.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="SMSMessages.resx.en">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>SMSMessages.resx.Designer.cs</LastGenOutput>
