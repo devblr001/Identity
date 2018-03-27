@@ -13,6 +13,7 @@ using Microsoft.Extensions.Options;
 using ASP.NET_core_role_based_authentication.Models;
 using ASP.NET_core_role_based_authentication.Models.AccountViewModels;
 using ASP.NET_core_role_based_authentication.Services;
+using Microsoft.AspNetCore.Http;
 
 namespace ASP.NET_core_role_based_authentication.Controllers
 {
@@ -24,17 +25,20 @@ namespace ASP.NET_core_role_based_authentication.Controllers
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IEmailSender _emailSender;
         private readonly ILogger _logger;
+       
 
         public AccountController(
             UserManager<ApplicationUser> userManager,
             SignInManager<ApplicationUser> signInManager,
             IEmailSender emailSender,
-            ILogger<AccountController> logger)
+            ILogger<AccountController> logger
+          )
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _emailSender = emailSender;
             _logger = logger;
+           
         }
 
         [TempData]
@@ -439,6 +443,10 @@ namespace ASP.NET_core_role_based_authentication.Controllers
         {
             return View();
         }
+
+     
+
+  
 
         #region Helpers
 

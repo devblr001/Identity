@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
+
+
+
+
 namespace AdminUI_Identity
 {
     public class Program

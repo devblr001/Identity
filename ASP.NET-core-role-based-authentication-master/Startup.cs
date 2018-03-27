@@ -35,7 +35,7 @@ namespace ASP.NET_core_role_based_authentication
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
-
+                
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
 
@@ -45,6 +45,8 @@ namespace ASP.NET_core_role_based_authentication
                 options.AddPolicy("RequireAdminRole", policy => policy.RequireRole("Admin"));
             });
 
+          
+                   
 
         }
 
